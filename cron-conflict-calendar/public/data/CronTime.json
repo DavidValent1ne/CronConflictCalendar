@@ -1,0 +1,28 @@
+{
+    "times": [
+        {
+            "id": 1,
+            "disabled": false,
+            "minute": "30",
+            "hour": "1",
+            "day_of_month": "5",
+            "month": "*",
+            "day_of_week": "*",
+            "duration": "120",
+            "directory": "/home/user/",
+            "file": "script.sh"
+        },
+        {
+            "id": 2,
+            "disabled": false,
+            "minute": "30",
+            "hour": "1",
+            "day_of_month": "5",
+            "month": "*",
+            "day_of_week": "*",
+            "duration": "120",
+            "directory": "/other/user/",
+            "file": "script.sh"
+        }
+    ]
+}
